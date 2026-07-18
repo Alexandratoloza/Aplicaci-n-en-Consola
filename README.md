@@ -115,6 +115,7 @@ El proyecto está listo para ser parte del **portafolio profesional** de desarro
 ---
 
 ## 🌐 Proyecto en línea
+- 📂 Repositorio en GitHub: [Aplicación en Consola](https://github.com/Alexandratoloza/Aplicaci-n-en-Consola.git)
 Puedes ver el proyecto publicado con GitHub Pages en el siguiente enlace:  
 👉 [Ver aplicación](https://alexandratoloza.github.io/Aplicaci-n-en-Consola/)
 
