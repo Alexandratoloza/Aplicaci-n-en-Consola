@@ -87,3 +87,38 @@ PROYECTO-M4/
 - **Funciones** que llaman a otras funciones.
 - **Objetos** con propiedades y métodos.
 - **Arreglo de objetos** recorrido con `.forEach()` y `.map()`.
+
+## 📖 Documentación y análisis del proyecto
+
+Este proyecto permitió aplicar de manera práctica los contenidos vistos en el Módulo #4 del curso **Desarrollo de Aplicaciones Front-End Trainee**.  
+La aplicación se ejecuta en la consola del navegador y cumple con los objetivos planteados:
+
+- Se implementaron **operaciones matemáticas básicas** mediante funciones, reforzando el uso de parámetros y retornos.  
+- Se trabajó con **estructuras condicionales y bucles**, lo que permitió controlar el flujo de la aplicación y repetir procesos de manera eficiente.  
+- Se aplicó la **modularización del código**, organizando las tareas en funciones específicas para mejorar la legibilidad y el mantenimiento.  
+- Se exploró el uso de **arreglos y objetos**, incluyendo métodos como `.filter()`, `.forEach()` y `.map()`, fundamentales en el desarrollo Front-End moderno.  
+
+### 🔎 Análisis
+El proyecto demuestra que es posible construir una aplicación funcional únicamente con **JavaScript puro**, sin necesidad de frameworks.  
+La lógica se ejecuta en la consola, lo que facilita la comprensión de los fundamentos antes de pasar a interfaces gráficas más complejas.  
+Además, la integración con un archivo `index.html` estilizado con **Bootstrap** aporta una presentación profesional y coherente con el perfil de un desarrollador Front-End.  
+
+### ✅ Conclusión
+Este trabajo consolida los aprendizajes del módulo, mostrando dominio en:
+- Sintaxis básica de JavaScript  
+- Control de flujo y estructuras de datos  
+- Buenas prácticas de organización del código  
+- Documentación y presentación del proyecto en GitHub  
+
+El proyecto está listo para ser parte del **portafolio profesional** de desarrollo Front-End.
+
+---
+
+## 🌐 Proyecto en línea
+Puedes ver el proyecto publicado con GitHub Pages en el siguiente enlace:  
+👉 [Ver aplicación](https://alexandratoloza.github.io/Aplicaci-n-en-Consola/)
+
+---
+
+## 👩‍💻 Autora
+Proyecto realizado por **Alexandra** como parte de la Evaluación del Módulo #4 del curso: Desarrollo de Aplicaciones Front-End Trainee.
