@@ -1,4 +1,4 @@
-# Proyecto Modulo #4: Aplkicacion de consola en JavaScript.
+# Proyecto Modulo #4: Aplicacion de consola en JavaScript.
 
 Este proyecto corresponde a la Evaluación del modulo #4 del curso: DESARROLLO DE APLICACIONES FRONT-END TRAINEE
 
